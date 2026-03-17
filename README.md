@@ -168,7 +168,7 @@ float dist = sqrt(pow(slotX - targetX, 2) + pow(slotY - targetY, 2));
 
 ```bash
 # Clone the repository
-git clone https://github.com/Abd-Abdullah83/3-Level-Parking-System--OOP_Class-.git
+git clone https://github.com/Abd-Abdullah83/Parking-System-OOP.git
 cd SmartParkingSystem
 
 # Compile
