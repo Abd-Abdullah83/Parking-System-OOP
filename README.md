@@ -20,14 +20,25 @@ This project redesigns the Smart Parking System from Assignment 1 using proper *
 ---
 
 ## 🏗 Project Structure
-
+ 
 ```
-SmartParkingSystem/
+Parking-System-OOP/
+├── Output/
+│   ├── Screenshot 2026-03-20 213717.png
+│   ├── Screenshot 2026-03-20 213756.png
+│   ├── Screenshot 2026-03-20 213811.png
+│   ├── Screenshot 2026-03-20 213842.png
+│   └── Screenshot 2026-03-20 213916.png
+├── Supporting Files/
+│   ├── block.txt
+│   └── coordinate.txt
+├── LICENSE
 ├── ParkingClass.cpp        # Full class implementation
-├── parking_block.txt      # Sample layout input file
-└── coordinates.txt         # Block (x, y) coordinates file
+├── README.md
+├── block.txt               # Sample layout input file
+└── coordinate.txt          # Block (x, y) coordinates file
 ```
-
+ 
 ---
 
 ## 🔧 Class Design
